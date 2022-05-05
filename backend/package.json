@@ -1,0 +1,36 @@
+{
+  "name": "autobidmaster-pilot-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "node ../build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnamazli/autobidmaster-pilot-project.git"
+  },
+  "author": "hnamazli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnamazli/autobidmaster-pilot-project/issues"
+  },
+  "homepage": "https://github.com/hnamazli/autobidmaster-pilot-project#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/eslint-parser": "^7.17.0",
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/preset-env": "^7.17.10",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.5",
+    "eslint": "^8.14.0",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-session": "^1.17.2"
+  }
+}

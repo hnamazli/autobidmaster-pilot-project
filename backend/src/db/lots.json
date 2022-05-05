@@ -1,0 +1,1526 @@
+[
+    {
+      "id": 28903764,
+      "vehicleType": "V",
+      "year": 2009,
+      "make": "Gmc",
+      "modelGroup": "Acadia",
+      "model": "Acadia Slt",
+      "bodyStyle": null,
+      "color": "SILVER",
+      "primaryDamage": "UNKNOWN",
+      "secondaryDamage": null,
+      "title": {
+        "type": "RP",
+        "name": "AR REPOSSESSION",
+        "copartNotes": "AR - REPOSSESSION"
+      },
+      "vin": "1GKER23D19J******",
+      "odometer": 84174,
+      "odometerBrand": "Not Actual",
+      "acv": "20450.00",
+      "repairCost": "1.00",
+      "engineSize": "3.6L  6",
+      "saleStatus": "A",
+      "buyItNow": null,
+      "makeAnOffer": false,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 771,
+        "name": "Sealed Bid Repo",
+        "slug": "sealed_bid_repo",
+        "city": "FAIRFIELD",
+        "stateCode": "CA",
+        "zip": "94534",
+        "physical": false,
+        "point": [
+          -122.13363,
+          38.22142
+        ]
+      },
+      "saleDate": "2014-09-12T00:00:00-07:00",
+      "saleStartAt": null,
+      "item": 0,
+      "gridRow": "*SALE",
+      "location": {
+        "id": 192,
+        "name": "WY - Casper",
+        "slug": "wy-casper",
+        "city": "CASPER",
+        "stateCode": "WY",
+        "zip": "82604",
+        "physical": true,
+        "point": [
+          -106.42787,
+          42.87447
+        ]
+      },
+      "locationName": "WY - Casper",
+      "offsite": null,
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2009 Gmc Acadia Slt 3.6L",
+      "sealedBid": true,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/8dffd1af-c503-41a1-b948-da19bb10a5ca.JPG",
+      "lane": "A",
+      "saleDateTimeLeft": null,
+      "saleStatusString": "On Approval",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2009_GMC_ACADIA_SLT_REPOSSESSION_CASPER_WY",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/9043ba64-6142-42c0-a286-09a607ee3f24.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/8dffd1af-c503-41a1-b948-da19bb10a5ca.JPG",
+          "hdr": null
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/5862a4b2-3308-4def-a8ff-b50f9c6bb0f1.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/adcc8578-1c3b-4eb4-8ca2-69f9f74804ab.JPG",
+          "hdr": null
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/1015c7f0-7d11-4ef6-83ac-96cbf75be383.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/d99b0057-634a-49f6-b608-c95fae101048.JPG",
+          "hdr": null
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/532d0a29-8fce-45a5-a002-4f5e46c2ee13.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/f04d5ad8-3ae1-4d20-9761-42fb37807319.JPG",
+          "hdr": null
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/f3305b38-ba1f-44fc-b0fc-4e69c641efd5.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/5817c99d-99f1-4fe4-8cc8-793fa8174374.JPG",
+          "hdr": null
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/0272e748-42af-4f94-822f-f0dfad826fac.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/81a095b2-eedd-48a1-b459-78f160398f3b.JPG",
+          "hdr": null
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/e5172134-7673-411a-8805-99415c886daf.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/603e449e-30cf-4d02-a5cc-fa79eeb20b32.JPG",
+          "hdr": null
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/923902a5-3dfe-426b-9173-c745a3fd4374.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/NAP140910/449269ca-da7e-440b-960f-d071addadbe4.JPG",
+          "hdr": null
+        }
+      ],
+      "currentBid": 0,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "Zk42RBr2WMCRLR8xmKXRuZgTi6E39gV+yML0IUE1d40="
+    },
+    {
+      "id": 59542961,
+      "vehicleType": "V",
+      "year": 2005,
+      "make": "Hyundai",
+      "modelGroup": "Santa Fe",
+      "model": "Santa Fe G",
+      "bodyStyle": "4DR SPORT UTILITY",
+      "color": "SILVER",
+      "primaryDamage": "MINOR DENT/SCRATCHES",
+      "secondaryDamage": null,
+      "title": {
+        "type": "CQ",
+        "name": "CA CERT OF TITLE OR SALVAGE ACQ",
+        "copartNotes": "CA - Only members holding an active Dealer, Dismantler or Exporter License will receive CA transferrable documents to obtain a Clear Title on this lot. After the sale, all other members not holding one of the above licenses will receive an AC (California Acquisition Bill of Sale). After successful completion of required CA inspections the AC may be revived to a CA Certificate of Title with Salvage Branding. www.dmv.ca.gov"
+      },
+      "vin": "KM8SC73E25U******",
+      "odometer": 154478,
+      "odometerBrand": "Actual",
+      "acv": "4400.00",
+      "repairCost": "0.00",
+      "engineSize": "3.5L  6",
+      "saleStatus": "M",
+      "buyItNow": 650,
+      "makeAnOffer": true,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 16,
+        "name": "CA - So Sacramento",
+        "slug": "ca-so_sacramento",
+        "city": "SACRAMENTO",
+        "stateCode": "CA",
+        "zip": "95828",
+        "physical": true,
+        "point": [
+          -121.38293,
+          38.50144
+        ]
+      },
+      "saleDate": "2021-10-18T00:00:00-07:00",
+      "saleStartAt": "2021-10-18T12:00:00-07:00",
+      "item": 0,
+      "gridRow": "D090",
+      "location": {
+        "id": 16,
+        "name": "CA - So Sacramento",
+        "slug": "ca-so_sacramento",
+        "city": "SACRAMENTO",
+        "stateCode": "CA",
+        "zip": "95828",
+        "physical": true,
+        "point": [
+          -121.38293,
+          38.50144
+        ]
+      },
+      "locationName": "CA - So Sacramento",
+      "offsite": null,
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2005 Hyundai Santa Fe G 3.5L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/70dc8a27-40f3-4956-9201-482d85f95573.JPG",
+      "lane": "A",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 4,
+        "h": 4,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 86.66666666666666
+      },
+      "saleStatusString": "On Minimum Bid",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2005_HYUNDAI_SANTA_FE_G_CERT_OF_TITLE_OR_SALVAGE_ACQ_SO_SACRAMENTO_CA",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/70dc8a27-40f3-4956-9201-482d85f95573.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/70dc8a27-40f3-4956-9201-482d85f95573.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/a15b5975-ce53-489e-9282-4636d9ef1276.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/03645373-3709-4286-bec4-09952cc7ccdf.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/03645373-3709-4286-bec4-09952cc7ccdf.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/ac8ce05c-e1e2-452e-914c-5a724bbd0192.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/7b79c46d-3a19-4e1d-aac4-530995ae65db.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/7b79c46d-3a19-4e1d-aac4-530995ae65db.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/f3f32650-530a-4e8e-9b58-53d2f9d19860.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/54af7b74-b78e-426d-89ab-841a1b3cf791.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/54af7b74-b78e-426d-89ab-841a1b3cf791.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/ef0295ea-a70b-4b8f-887a-af4d4b1d33b7.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/f26776e3-9156-4f2a-8513-8cd573bced32.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/f26776e3-9156-4f2a-8513-8cd573bced32.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/9b40a3ec-f43e-4be6-8101-84ddafe46fcc.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/145da188-24bd-49fb-8d56-428b3f736461.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/145da188-24bd-49fb-8d56-428b3f736461.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/76b1ae49-c398-4692-8c25-1ea9bd12442e.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/54916ba0-6cb5-4730-bc89-f8313ac1ef18.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/54916ba0-6cb5-4730-bc89-f8313ac1ef18.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/b7af4b68-83f2-4b1c-a8c0-a2ac9ee8d795.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/dca23bfc-8dca-4f3e-bd1b-bdb98d189d62.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/dca23bfc-8dca-4f3e-bd1b-bdb98d189d62.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/63bff046-742a-4df6-a3bf-d16ecd573f29.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/20906102-b205-4eae-b91f-621cbc7a899e.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/20906102-b205-4eae-b91f-621cbc7a899e.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/9dfa77f5-e3a7-42dc-b04a-59827c54b239.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/16325429-5ca8-4839-8fb0-4c3187b4c776.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/16325429-5ca8-4839-8fb0-4c3187b4c776.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/0b6f8e80-6fde-456c-be4d-8725aad69f46.JPG"
+        }
+      ],
+      "currentBid": 0,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "bnvLYISjQbZbPCcv6+n+844sxVY8nRNsy992hAV06VQ="
+    },
+    {
+      "id": 58044031,
+      "vehicleType": "V",
+      "year": 2021,
+      "make": "Ram",
+      "modelGroup": "1500",
+      "model": "1500 Class",
+      "bodyStyle": null,
+      "color": "SILVER",
+      "primaryDamage": "FRONT END",
+      "secondaryDamage": "REAR END",
+      "title": {
+        "type": "SV",
+        "name": "TX SALVAGE VEHICLE TITLE",
+        "copartNotes": "TX - SALVAGE VEHICLE TITLE"
+      },
+      "vin": "1C6RR6FG4MS******",
+      "odometer": 0,
+      "odometerBrand": "Not Actual",
+      "acv": "34499.00",
+      "repairCost": "100.00",
+      "engineSize": "3.6L  6",
+      "saleStatus": "A",
+      "buyItNow": null,
+      "makeAnOffer": false,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 13,
+        "name": "TX - Lufkin",
+        "slug": "tx-lufkin",
+        "city": "LUFKIN",
+        "stateCode": "TX",
+        "zip": "75904",
+        "physical": true,
+        "point": [
+          -94.77289,
+          31.32014
+        ]
+      },
+      "saleDate": "2021-10-18T00:00:00-07:00",
+      "saleStartAt": "2021-10-18T10:00:00-07:00",
+      "item": 0,
+      "gridRow": "SC001",
+      "location": {
+        "id": 13,
+        "name": "TX - Lufkin",
+        "slug": "tx-lufkin",
+        "city": "LUFKIN",
+        "stateCode": "TX",
+        "zip": "75904",
+        "physical": true,
+        "point": [
+          -94.77289,
+          31.32014
+        ]
+      },
+      "locationName": "TX - Lufkin",
+      "offsite": null,
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2021 Ram 1500 Class 3.6L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/ec27305d-e969-46b3-907e-bbbe4f8a42c1.JPG",
+      "lane": "A",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 4,
+        "h": 2,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 43.33333333333333
+      },
+      "saleStatusString": "On Approval",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2021_RAM_1500_CLASS_SALVAGE_VEHICLE_TITLE_LUFKIN_TX",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/ec27305d-e969-46b3-907e-bbbe4f8a42c1.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/ec27305d-e969-46b3-907e-bbbe4f8a42c1.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/8361700a-6aa0-49e8-aed8-f46bf6cbc05c.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/c8d61557-d967-4bca-ac60-6eba05587223.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/c8d61557-d967-4bca-ac60-6eba05587223.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/2022d465-351b-42ea-a1bf-d5503406a6d5.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/8e47bf71-8c52-4006-a870-d44b5f7c2ced.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/8e47bf71-8c52-4006-a870-d44b5f7c2ced.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/87149812-e91a-491b-b550-dfef11b1a846.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/df3ae465-8e9d-496e-ae14-3d3c18092881.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/df3ae465-8e9d-496e-ae14-3d3c18092881.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/cce518f1-254e-41f2-bc9b-2d5c0d7b44cd.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/850af1b0-1039-4416-8fbc-614c81ab6f45.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/850af1b0-1039-4416-8fbc-614c81ab6f45.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/dab01929-0fef-4722-8043-bd605726618b.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/4786f152-ef9e-4074-a760-b0ebb1b825f8.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/4786f152-ef9e-4074-a760-b0ebb1b825f8.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/1ef76e96-84ff-4540-b18d-a35943ce6328.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/b6ed07a1-5554-483a-b2c0-58a0259153a0.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/b6ed07a1-5554-483a-b2c0-58a0259153a0.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/ac49f3ba-0017-41db-b418-6c9578ae9a5c.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/0a0af439-0a12-495e-84fd-fb74426c5dc5.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/0a0af439-0a12-495e-84fd-fb74426c5dc5.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/aa60e235-676e-4bb0-ae6d-09f3d36bceac.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/d336e6cb-3036-4da4-9067-c365e7099b41.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/d336e6cb-3036-4da4-9067-c365e7099b41.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/5e2b1226-286c-4c3d-88e2-d079de8d455c.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/355bff62-03df-4823-9db2-086987720d84.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/355bff62-03df-4823-9db2-086987720d84.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/91547330-082a-4cbe-9c70-ea104a3265c3.JPG"
+        }
+      ],
+      "currentBid": 0,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "cuZX2rVdIqj/vPmFgwwNyquv8XbEVNFWRGuxSxR1Sgg="
+    },
+    {
+      "id": 45109901,
+      "vehicleType": "V",
+      "year": 1998,
+      "make": "Ford",
+      "modelGroup": "Mustang",
+      "model": "Mustang",
+      "bodyStyle": "COUPE",
+      "color": "RED",
+      "primaryDamage": "MECHANICAL",
+      "secondaryDamage": "MINOR DENT/SCRATCHES",
+      "title": {
+        "type": "AQ",
+        "name": "CA SALVAGE ACQUISITION BILLOFSALE",
+        "copartNotes": "CA - All members will receive an AC (California Acquisition Bill of Sale). After successful completion of required CA inspections the AC may be revived to a CA Certificate of Title with Salvage branding. www.dmv.ca.gov"
+      },
+      "vin": "1FAFP4049WF******",
+      "odometer": 183779,
+      "odometerBrand": "Actual",
+      "acv": "0.00",
+      "repairCost": "0.00",
+      "engineSize": "3.8L  6",
+      "saleStatus": "M",
+      "buyItNow": null,
+      "makeAnOffer": false,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 16,
+        "name": "CA - So Sacramento",
+        "slug": "ca-so_sacramento",
+        "city": "SACRAMENTO",
+        "stateCode": "CA",
+        "zip": "95828",
+        "physical": true,
+        "point": [
+          -121.38293,
+          38.50144
+        ]
+      },
+      "saleDate": "2021-10-18T00:00:00-07:00",
+      "saleStartAt": "2021-10-18T12:00:00-07:00",
+      "item": 0,
+      "gridRow": "D020",
+      "location": {
+        "id": 16,
+        "name": "CA - So Sacramento",
+        "slug": "ca-so_sacramento",
+        "city": "SACRAMENTO",
+        "stateCode": "CA",
+        "zip": "95828",
+        "physical": true,
+        "point": [
+          -121.38293,
+          38.50144
+        ]
+      },
+      "locationName": "CA - So Sacramento",
+      "offsite": null,
+      "sold": false,
+      "subLotInfo": null,
+      "description": "1998 Ford Mustang 3.8L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/a3745473-2618-4b98-94d3-a7659045c1c1.JPG",
+      "lane": "A",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 4,
+        "h": 4,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 86.66666666666666
+      },
+      "saleStatusString": "On Minimum Bid",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_1998_FORD_MUSTANG_SALVAGE_ACQUISITION_BILLOFSALE_SO_SACRAMENTO_CA",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/a3745473-2618-4b98-94d3-a7659045c1c1.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/a3745473-2618-4b98-94d3-a7659045c1c1.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX90/1a2e301f-96e4-478c-b906-077eeab250a9.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/9ba375f9-7a03-4587-ae62-a75b532eb81d.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/9ba375f9-7a03-4587-ae62-a75b532eb81d.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX90/00ef0d1a-108d-4360-9802-1290804667bd.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/1522a364-2162-4748-84f7-6159701532a0.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/1522a364-2162-4748-84f7-6159701532a0.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX90/e5ae111d-716e-4270-8045-a246fc910ae5.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/c492d22e-b0e3-4a5a-bc9b-3d43c1ae4542.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/c492d22e-b0e3-4a5a-bc9b-3d43c1ae4542.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX90/feffd194-2394-4d08-b933-926f6909b7e5.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/2f84d154-0095-4a6d-8c2b-9023704e330e.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/2f84d154-0095-4a6d-8c2b-9023704e330e.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX90/89e1d0b2-1a19-4d5f-8403-b91d02e27cec.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/8d74ae69-a112-4a13-8b97-ebd6c0d000c5.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/8d74ae69-a112-4a13-8b97-ebd6c0d000c5.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX90/767d15d6-a13d-4938-ad30-7d223477d27b.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/643d0438-83a8-4463-ab34-00d9a58b5649.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/643d0438-83a8-4463-ab34-00d9a58b5649.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX90/119a53db-6d11-4d9f-ac76-f112252ee984.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/19187a57-a3f5-4156-a26e-112811b2cfc3.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/19187a57-a3f5-4156-a26e-112811b2cfc3.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX90/44da66fa-8efa-4695-b44e-6ad502b5a2fb.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/d666a05b-4138-437b-8e68-b377db9b7612.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX440/d666a05b-4138-437b-8e68-b377db9b7612.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX90/6ca500d4-bfa0-4c3d-9744-4b64b9cb0f34.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP144/8e54a566d5e440c6812b0ad372f8724f_ful.jpg",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP144/8e54a566d5e440c6812b0ad372f8724f_ful.jpg",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP144/8e54a566d5e440c6812b0ad372f8724f_hrs.jpg"
+        }
+      ],
+      "currentBid": 0,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "/IAZp8khiS+VXAvwAJcpYX5ty+szG/EeBGXsZxpXNhQ="
+    },
+    {
+      "id": 59448481,
+      "vehicleType": "V",
+      "year": 2012,
+      "make": "Toyota",
+      "modelGroup": "Corolla",
+      "model": "Corolla Ba",
+      "bodyStyle": "SEDAN 4DR",
+      "color": "CHARCOAL",
+      "primaryDamage": "FRONT END",
+      "secondaryDamage": "SIDE",
+      "title": {
+        "type": "CT",
+        "name": "TX CERTIFICATE OF TITLE",
+        "copartNotes": "TX - CERTIFICATE OF TITLE without brands. This is commonly referred to as a Clean or Clear Title."
+      },
+      "vin": "5YFBU4EE2CP******",
+      "odometer": 0,
+      "odometerBrand": "Not Actual",
+      "acv": "16889.00",
+      "repairCost": "0.00",
+      "engineSize": "1.8L  4",
+      "saleStatus": "A",
+      "buyItNow": null,
+      "makeAnOffer": false,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 74,
+        "name": "TX - San Antonio",
+        "slug": "tx-san_antonio",
+        "city": "SAN ANTONIO",
+        "stateCode": "TX",
+        "zip": "78224",
+        "physical": true,
+        "point": [
+          -98.54729,
+          29.30834
+        ]
+      },
+      "saleDate": "2021-10-14T00:00:00-07:00",
+      "saleStartAt": "2021-10-14T10:00:00-07:00",
+      "item": 1128,
+      "gridRow": "SD014",
+      "location": {
+        "id": 74,
+        "name": "TX - San Antonio",
+        "slug": "tx-san_antonio",
+        "city": "SAN ANTONIO",
+        "stateCode": "TX",
+        "zip": "78224",
+        "physical": true,
+        "point": [
+          -98.54729,
+          29.30834
+        ]
+      },
+      "locationName": "TX - San Antonio",
+      "offsite": null,
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2012 Toyota Corolla Ba 1.8L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/94bafd88-abf7-455d-acd7-8714b27d37b4.JPG",
+      "lane": "A",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 0,
+        "h": 2,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 43.33333333333333
+      },
+      "saleStatusString": "On Approval",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2012_TOYOTA_COROLLA_BA_CERTIFICATE_OF_TITLE_SAN_ANTONIO_TX",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/94bafd88-abf7-455d-acd7-8714b27d37b4.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/94bafd88-abf7-455d-acd7-8714b27d37b4.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/d2f32139-1664-480c-9c74-1381aa0fa306.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/4afa5c6a-b0d7-4ddf-9598-f6645c192ea0.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/4afa5c6a-b0d7-4ddf-9598-f6645c192ea0.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/802bcad7-72b7-4b25-b08c-a4a38ac9527d.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/8370226c-2fc4-4907-8981-9d8a6adc3df7.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/8370226c-2fc4-4907-8981-9d8a6adc3df7.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/ada9d3cf-e7ba-412a-b64b-588e6c1d9c5e.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX491/81cc3219-3d92-468b-b9d9-bfd404e7d2cb.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX491/81cc3219-3d92-468b-b9d9-bfd404e7d2cb.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/6266803f-7acd-4be1-b4e6-bae337529aab.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX491/0111e5a2-4611-4f08-ae50-35e415426b77.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX491/0111e5a2-4611-4f08-ae50-35e415426b77.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/6ac61c5f-d989-49f2-8a8b-537ae737e568.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/5dfa317a-0172-486f-a0ae-d2b504860dc5.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/5dfa317a-0172-486f-a0ae-d2b504860dc5.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/fced1ed6-7516-4b63-a1c5-c67d40d845a3.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/678361b3-9056-4b50-b1c4-201d9f126bbb.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/678361b3-9056-4b50-b1c4-201d9f126bbb.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/7705a526-6944-4cff-bba1-877c983bf533.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/a4f9d902-37f6-4b4f-a200-6c162d9736e5.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/a4f9d902-37f6-4b4f-a200-6c162d9736e5.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/5121aeb2-5624-4301-91e8-b080cd754d04.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/bb11aa30-e04c-4fde-b80c-2813ff6c7d8f.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/bb11aa30-e04c-4fde-b80c-2813ff6c7d8f.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/1acfe0eb-8da4-480a-83e1-30a1a84d60e7.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP172/15c2171e6c8a4b368fee82d9dfd2c0ab_ful.jpg",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP172/15c2171e6c8a4b368fee82d9dfd2c0ab_ful.jpg",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP172/15c2171e6c8a4b368fee82d9dfd2c0ab_hrs.jpg"
+        }
+      ],
+      "currentBid": 10,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "lm3SJCgW49O90G2Ag6LHttSCrjpInG1IFMRdLhYa2fk="
+    },
+    {
+      "id": 57463921,
+      "vehicleType": "V",
+      "year": 2014,
+      "make": "Ford",
+      "modelGroup": "Escape",
+      "model": "Escape Se",
+      "bodyStyle": null,
+      "color": "RED",
+      "primaryDamage": "FRONT END",
+      "secondaryDamage": null,
+      "title": {
+        "type": "SC",
+        "name": "NV SALVAGE TITLE",
+        "copartNotes": "NV - SALVAGE TITLE branded TOTAL LOSS"
+      },
+      "vin": "1FMCU9G91EU******",
+      "odometer": 83345,
+      "odometerBrand": "Not Actual",
+      "acv": "13575.00",
+      "repairCost": "11265.77",
+      "engineSize": "2.0L  4",
+      "saleStatus": "M",
+      "buyItNow": 2650,
+      "makeAnOffer": false,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 100,
+        "name": "NV - Reno",
+        "slug": "nv-reno",
+        "city": "RENO",
+        "stateCode": "NV",
+        "zip": "89506",
+        "physical": true,
+        "point": [
+          -119.88482,
+          39.61501
+        ]
+      },
+      "saleDate": "2021-10-14T00:00:00-07:00",
+      "saleStartAt": "2021-10-14T12:00:00-07:00",
+      "item": 1124,
+      "gridRow": "G010",
+      "location": {
+        "id": 100,
+        "name": "NV - Reno",
+        "slug": "nv-reno",
+        "city": "RENO",
+        "stateCode": "NV",
+        "zip": "89506",
+        "physical": true,
+        "point": [
+          -119.88482,
+          39.61501
+        ]
+      },
+      "locationName": "NV - Reno",
+      "offsite": null,
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2014 Ford Escape Se 2.0L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/7e815a0b-2758-44be-9fc7-d341e0472bc9.JPG",
+      "lane": "A",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 0,
+        "h": 4,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 86.66666666666666
+      },
+      "saleStatusString": "On Minimum Bid",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2014_FORD_ESCAPE_SE_SALVAGE_TITLE_RENO_NV",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/7e815a0b-2758-44be-9fc7-d341e0472bc9.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/7e815a0b-2758-44be-9fc7-d341e0472bc9.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX101/6f0eed9f-b6a6-4954-98e5-871fbe1f4187.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/a343a555-4e52-4377-baaf-d2e26e545d44.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/a343a555-4e52-4377-baaf-d2e26e545d44.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX101/a32891ae-058e-40d2-8b0f-593bd18be4cd.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/fac59d65-d796-4293-9840-3b7c1d3c3851.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/fac59d65-d796-4293-9840-3b7c1d3c3851.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX101/5b84327c-cbf8-4b6f-8da7-754c3105c4be.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/3ed269aa-b454-446d-9dab-835e3f3d2a67.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/3ed269aa-b454-446d-9dab-835e3f3d2a67.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX101/1ba05139-18bb-4baa-a86e-1e5ec8476270.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/cc2b9ad3-2ce0-4de7-88d8-b61a08ff7ebb.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/cc2b9ad3-2ce0-4de7-88d8-b61a08ff7ebb.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX101/0b42271b-b465-4e0b-bfdf-054ff32e88c0.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/90c5b641-235b-4a6f-aee0-809c3c02df86.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/90c5b641-235b-4a6f-aee0-809c3c02df86.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX101/fd8029cb-c467-40dd-bb0e-71aeaf3df3a7.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/7f6fbfa8-9475-41b5-aff8-3da3013c6d8f.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/7f6fbfa8-9475-41b5-aff8-3da3013c6d8f.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX101/2b8ddd5d-a4a3-4e85-8fb8-8326aab64daa.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/a5e5ffc8-c7dd-4f68-8705-489cfdbbb757.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX487/a5e5ffc8-c7dd-4f68-8705-489cfdbbb757.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/6250db56-f88d-455f-babb-7b207f462e6d.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/0730e904-31e9-47cd-9ee5-3e870e2f5be0.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX484/0730e904-31e9-47cd-9ee5-3e870e2f5be0.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX101/0caa158b-db10-470f-9a7a-4d10107971cc.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP166/652899cf29b84c42a5666b74c5ada869_ful.jpg",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP166/652899cf29b84c42a5666b74c5ada869_ful.jpg",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP166/652899cf29b84c42a5666b74c5ada869_hrs.jpg"
+        }
+      ],
+      "currentBid": 50,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "buYUOcuA2n1kLeKxWcFLgeCviGpPrNY+DEEzDy7sVWA="
+    },
+    {
+      "id": 58378311,
+      "vehicleType": "V",
+      "year": 2008,
+      "make": "Dodge",
+      "modelGroup": "Charger",
+      "model": "Charger",
+      "bodyStyle": null,
+      "color": "TAN",
+      "primaryDamage": "FRONT END",
+      "secondaryDamage": null,
+      "title": {
+        "type": "SC",
+        "name": "TN SALVAGE CERTIFICATE",
+        "copartNotes": "TN - SALVAGE CERTIFICATE"
+      },
+      "vin": "2B3KA43G88H******",
+      "odometer": 201533,
+      "odometerBrand": "Exempt",
+      "acv": "5969.00",
+      "repairCost": "5786.03",
+      "engineSize": "3.5L  6",
+      "saleStatus": "M",
+      "buyItNow": 1200,
+      "makeAnOffer": false,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 22,
+        "name": "TN - Memphis",
+        "slug": "tn-memphis",
+        "city": "MEMPHIS",
+        "stateCode": "TN",
+        "zip": "38118",
+        "physical": true,
+        "point": [
+          -89.97274,
+          35.00093
+        ]
+      },
+      "saleDate": "2021-10-14T00:00:00-07:00",
+      "saleStartAt": "2021-10-14T10:00:00-07:00",
+      "item": 2010,
+      "gridRow": "HH130",
+      "location": {
+        "id": 22,
+        "name": "TN - Memphis",
+        "slug": "tn-memphis",
+        "city": "MEMPHIS",
+        "stateCode": "TN",
+        "zip": "38118",
+        "physical": true,
+        "point": [
+          -89.97274,
+          35.00093
+        ]
+      },
+      "locationName": "TN - Memphis",
+      "offsite": null,
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2008 Dodge Charger 3.5L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/35319f91-144a-45e9-80ff-90958e744654.JPG",
+      "lane": "B",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 0,
+        "h": 2,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 43.33333333333333
+      },
+      "saleStatusString": "On Minimum Bid",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2008_DODGE_CHARGER_SALVAGE_CERTIFICATE_MEMPHIS_TN",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/35319f91-144a-45e9-80ff-90958e744654.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/35319f91-144a-45e9-80ff-90958e744654.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/eef090dc-6bb8-4213-9c7f-4e20c147f10b.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/6be57375-6c29-4083-b366-50a58571cc02.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/6be57375-6c29-4083-b366-50a58571cc02.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/bfbdcfbf-1569-430a-9fdf-3f7659ab9729.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/d13eada5-6b3c-4c04-a917-7bbea1fb61bb.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/d13eada5-6b3c-4c04-a917-7bbea1fb61bb.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/690fda2d-1346-44b0-a38e-055a652bb214.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/213351cc-c645-40c9-8099-765a9ce36107.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/213351cc-c645-40c9-8099-765a9ce36107.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/b4b8c114-c1ae-4422-8b69-b03831f3adf0.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/be82eb6f-069c-4063-b53f-0acb904a5358.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/be82eb6f-069c-4063-b53f-0acb904a5358.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/982a6a89-2eac-4799-9c79-cbf7fd1b5d4c.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/89787d8a-4d0d-4bde-994b-a5d97be8db13.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/89787d8a-4d0d-4bde-994b-a5d97be8db13.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/9d412c15-5166-4416-b664-bae1560b86f9.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/18b4f0cd-ef82-4365-8e9a-e04ca4916f7a.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/18b4f0cd-ef82-4365-8e9a-e04ca4916f7a.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/e8626040-411d-4d89-8e87-703d83925ec7.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/796d0bdb-d152-4594-af06-4eeb7941e958.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/796d0bdb-d152-4594-af06-4eeb7941e958.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/332d4fd6-a920-406b-9c40-492edec4d0a8.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/98c1491d-0fe9-45b4-ba12-b8a88f5d9b56.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/98c1491d-0fe9-45b4-ba12-b8a88f5d9b56.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/8baba844-3fb9-4e70-915e-53bc30580f2e.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/0a040404-40f1-4b5a-8355-e270d0318670.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX488/0a040404-40f1-4b5a-8355-e270d0318670.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX102/ed3c0e86-f951-4932-8533-35c3d64b5a35.JPG"
+        }
+      ],
+      "currentBid": 35,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "dJKFWlz7pYFngEeQ/qd6RJkvg5xZshLSFPmzzMy/Jhg="
+    },
+    {
+      "id": 59373791,
+      "vehicleType": "V",
+      "year": 2006,
+      "make": "Honda",
+      "modelGroup": "Odyssey",
+      "model": "Odyssey Ex",
+      "bodyStyle": null,
+      "color": "TURQUOISE",
+      "primaryDamage": "REAR END",
+      "secondaryDamage": "MINOR DENT/SCRATCHES",
+      "title": {
+        "type": "CT",
+        "name": "TX CERTIFICATE OF TITLE",
+        "copartNotes": "TX - CERTIFICATE OF TITLE without brands. This is commonly referred to as a Clean or Clear Title."
+      },
+      "vin": "5FNRL38676B******",
+      "odometer": 242701,
+      "odometerBrand": "Exempt",
+      "acv": "0.00",
+      "repairCost": "0.00",
+      "engineSize": "3.5L  6",
+      "saleStatus": "M",
+      "buyItNow": 1500,
+      "makeAnOffer": true,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 74,
+        "name": "TX - San Antonio",
+        "slug": "tx-san_antonio",
+        "city": "SAN ANTONIO",
+        "stateCode": "TX",
+        "zip": "78224",
+        "physical": true,
+        "point": [
+          -98.54729,
+          29.30834
+        ]
+      },
+      "saleDate": "2021-10-14T00:00:00-07:00",
+      "saleStartAt": "2021-10-14T10:00:00-07:00",
+      "item": 2111,
+      "gridRow": "SD013",
+      "location": {
+        "id": 74,
+        "name": "TX - San Antonio",
+        "slug": "tx-san_antonio",
+        "city": "SAN ANTONIO",
+        "stateCode": "TX",
+        "zip": "78224",
+        "physical": true,
+        "point": [
+          -98.54729,
+          29.30834
+        ]
+      },
+      "locationName": "TX - San Antonio",
+      "offsite": null,
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2006 Honda Odyssey Ex 3.5L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/a6332d37-bf13-4de4-a7c9-41c040202916.JPG",
+      "lane": "B",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 0,
+        "h": 2,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 43.33333333333333
+      },
+      "saleStatusString": "On Minimum Bid",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2006_HONDA_ODYSSEY_EX_CERTIFICATE_OF_TITLE_SAN_ANTONIO_TX",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/a6332d37-bf13-4de4-a7c9-41c040202916.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/a6332d37-bf13-4de4-a7c9-41c040202916.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/e4843af5-2aad-4326-bffd-1845a95dd7f6.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/3090cd62-7351-4f48-bee0-07a887610bff.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/3090cd62-7351-4f48-bee0-07a887610bff.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/937ed58b-2ff4-44d0-a908-5e48188a378b.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/d7640d2f-51da-4baf-b420-74c613501f4b.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/d7640d2f-51da-4baf-b420-74c613501f4b.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/42963a34-2b0e-41f0-bff1-e92cd29d2c10.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/d0d738e7-48fa-48ac-a7c1-1856160a679a.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/d0d738e7-48fa-48ac-a7c1-1856160a679a.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/ebd63c04-eff4-4886-ab7c-75bd6c9558aa.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/34e52268-2ed8-4b48-ab6c-15c7f3ee5357.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/34e52268-2ed8-4b48-ab6c-15c7f3ee5357.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/45cb0d56-dde7-4773-855f-9894b357518b.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/575829fd-71a5-4d8c-beaa-c956ba6de217.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/575829fd-71a5-4d8c-beaa-c956ba6de217.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/d70cce36-aa06-48ba-9774-027dababa44d.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/1930b634-91bb-41fd-878b-9b61dd42ec43.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/1930b634-91bb-41fd-878b-9b61dd42ec43.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/83f5b6e4-4e4e-449a-89aa-175b052c1204.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/233f7275-a518-4d9f-b7ee-ce9ee4ddc939.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/233f7275-a518-4d9f-b7ee-ce9ee4ddc939.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/96ccab05-9675-41d1-86d3-e3a3908a6e7b.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/5b3b14ea-58bc-4210-b17a-c09abdfe1bb6.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX490/5b3b14ea-58bc-4210-b17a-c09abdfe1bb6.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/2d378567-e362-4869-8d0d-41d7e699b70f.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP172/b75b02d6f2f54d98942068a2b700332e_ful.jpg",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP172/b75b02d6f2f54d98942068a2b700332e_ful.jpg",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP172/b75b02d6f2f54d98942068a2b700332e_hrs.jpg"
+        }
+      ],
+      "currentBid": 100,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "89at844YQoYQrAfSG530puh7tdtkdClAjhZXFEoKu8E="
+    },
+    {
+      "id": 56258581,
+      "vehicleType": "V",
+      "year": 2013,
+      "make": "Mercedes-Benz",
+      "modelGroup": "C-Class",
+      "model": "C 250",
+      "bodyStyle": "COUPE",
+      "color": "BLACK",
+      "primaryDamage": "MECHANICAL",
+      "secondaryDamage": "MINOR DENT/SCRATCHES",
+      "title": {
+        "type": "CT",
+        "name": "TX CERTIFICATE OF TITLE",
+        "copartNotes": "TX - CERTIFICATE OF TITLE without brands. This is commonly referred to as a Clean or Clear Title."
+      },
+      "vin": "WDDGJ4HB4DG******",
+      "odometer": 0,
+      "odometerBrand": "Not Actual",
+      "acv": "0.00",
+      "repairCost": "0.00",
+      "engineSize": "1.8L  4",
+      "saleStatus": "M",
+      "buyItNow": 5500,
+      "makeAnOffer": true,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 74,
+        "name": "TX - San Antonio",
+        "slug": "tx-san_antonio",
+        "city": "SAN ANTONIO",
+        "stateCode": "TX",
+        "zip": "78224",
+        "physical": true,
+        "point": [
+          -98.54729,
+          29.30834
+        ]
+      },
+      "saleDate": "2021-10-14T00:00:00-07:00",
+      "saleStartAt": "2021-10-14T10:00:00-07:00",
+      "item": 4033,
+      "gridRow": "SJ008",
+      "location": {
+        "id": 74,
+        "name": "TX - San Antonio",
+        "slug": "tx-san_antonio",
+        "city": "SAN ANTONIO",
+        "stateCode": "TX",
+        "zip": "78224",
+        "physical": true,
+        "point": [
+          -98.54729,
+          29.30834
+        ]
+      },
+      "locationName": "TX - San Antonio",
+      "offsite": null,
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2013 Mercedes-Benz C 250 1.8L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/f3047442-2ec2-46c0-b405-022a190067cd.JPG",
+      "lane": "D",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 0,
+        "h": 2,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 43.33333333333333
+      },
+      "saleStatusString": "On Minimum Bid",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2013_MERCEDES-BENZ_C_250_CERTIFICATE_OF_TITLE_SAN_ANTONIO_TX",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/f3047442-2ec2-46c0-b405-022a190067cd.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/f3047442-2ec2-46c0-b405-022a190067cd.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX100/468e0abf-e023-4f10-b90f-3b741875fb78.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/b8f688e3-fe5c-4cde-8449-dc8060ea46a7.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/b8f688e3-fe5c-4cde-8449-dc8060ea46a7.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX100/871d8417-66f2-4c82-a04c-5c8cb423cb72.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/7a375792-8542-4670-9962-47f9c72429f9.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/7a375792-8542-4670-9962-47f9c72429f9.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX100/6e876ea1-b928-4cfe-ae83-92687286952f.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/d18eceab-6fa3-49ca-bee5-3fbced679763.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/d18eceab-6fa3-49ca-bee5-3fbced679763.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX100/d66a17c3-f227-429d-8883-2ba0346e3cbb.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/4cd46aac-a0a8-4c47-9340-de9c328af599.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/4cd46aac-a0a8-4c47-9340-de9c328af599.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX100/782a588a-b00e-44c0-95ca-d2347d41c472.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/e7446004-3a2d-4d36-86f2-87b9df05c931.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/e7446004-3a2d-4d36-86f2-87b9df05c931.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX100/248b31f6-1e73-4c0a-b3b6-ae1e2b8832a5.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/5155efae-d87c-4f55-b593-44a14bed3f25.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/5155efae-d87c-4f55-b593-44a14bed3f25.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX100/755443da-5a13-4688-8037-7d9b69195ba9.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/7932bcd8-bba0-4035-86e0-e6d2f11d41b8.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/7932bcd8-bba0-4035-86e0-e6d2f11d41b8.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX100/2cb00e78-f482-4d4f-bf10-a83268a059b5.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/b75e278e-6a1c-48c7-bdc7-ed1d7bd84741.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX480/b75e278e-6a1c-48c7-bdc7-ed1d7bd84741.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX100/33080a98-52b0-4d1d-a51b-864cbaa028d5.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP164/c4d2555356824827a7fde833bbc25a59_ful.jpg",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP164/c4d2555356824827a7fde833bbc25a59_ful.jpg",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP164/c4d2555356824827a7fde833bbc25a59_hrs.jpg"
+        }
+      ],
+      "currentBid": 4500,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "OKi75qsvezWeo8Yeleycl6LdZZK8Dh+dZOooAVtpcso="
+    },
+    {
+      "id": 60120231,
+      "vehicleType": "V",
+      "year": 2017,
+      "make": "Land Rover",
+      "modelGroup": "Rangerover",
+      "model": "Range Rove",
+      "bodyStyle": null,
+      "color": "BLACK",
+      "primaryDamage": "NORMAL WEAR",
+      "secondaryDamage": null,
+      "title": {
+        "type": "CT",
+        "name": "FL CERTIFICATE OF TITLE",
+        "copartNotes": "FL - CERTIFICATE OF TITLE without brands. This is commonly referred to as a Clean or Clear Title."
+      },
+      "vin": "SALGS2FE8HA******",
+      "odometer": 84573,
+      "odometerBrand": "Actual",
+      "acv": "78392.00",
+      "repairCost": "0.00",
+      "engineSize": "5.0L  8",
+      "saleStatus": "M",
+      "buyItNow": 68500,
+      "makeAnOffer": true,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 880,
+        "name": "NCS - Eastern Region",
+        "slug": "ncs-eastern_region",
+        "city": "DALLAS",
+        "stateCode": "TX",
+        "zip": "75254",
+        "physical": false,
+        "point": [
+          -96.82264,
+          32.93905
+        ]
+      },
+      "saleDate": "2021-10-14T00:00:00-07:00",
+      "saleStartAt": "2021-10-14T18:00:00-07:00",
+      "item": 0,
+      "gridRow": "*OFF",
+      "location": {
+        "id": 33,
+        "name": "FL - Miami North",
+        "slug": "fl-miami_north",
+        "city": "OPA LOCKA",
+        "stateCode": "FL",
+        "zip": "33054",
+        "physical": true,
+        "point": [
+          -80.24397,
+          25.89173
+        ]
+      },
+      "locationName": "FL - Miami North",
+      "offsite": {
+        "preview": [],
+        "pickup": {
+          "contactName": "FL - MIAMI NORTH",
+          "address": "12850 NW 27TH AVE.",
+          "city": "OPA LOCKA",
+          "state": "FL",
+          "zip": "33054"
+        }
+      },
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2017 Land Rover Range Rove 5.0L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/5bd2106d-24ef-42ad-b090-215c1206cbd9.JPG",
+      "lane": "A",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 0,
+        "h": 10,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 216.66666666666669
+      },
+      "saleStatusString": "On Minimum Bid",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2017_LAND_ROVER_RANGE_ROVE_CERTIFICATE_OF_TITLE_MIAMI_NORTH_FL",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/5bd2106d-24ef-42ad-b090-215c1206cbd9.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/5bd2106d-24ef-42ad-b090-215c1206cbd9.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/630678f6-1b42-466e-8d3b-842097495cb1.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/b918295f-a34f-4243-8bf2-eb9fcfb12e3b.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/b918295f-a34f-4243-8bf2-eb9fcfb12e3b.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/a072be01-04b5-4028-8fff-404f20956a4f.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/8275d4d0-0571-4120-899c-a7f474f76167.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/8275d4d0-0571-4120-899c-a7f474f76167.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/7e93d4f6-fc1d-47b0-bb90-1943dd5dff3c.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/328cafd3-c867-4d7e-9c0b-95054e7cbf3a.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/328cafd3-c867-4d7e-9c0b-95054e7cbf3a.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/76636ce3-22f5-4d9e-aa74-b00c77db0ee1.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/95c7a122-362e-4b77-8b2e-33056c0514f4.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/95c7a122-362e-4b77-8b2e-33056c0514f4.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/9f2b3465-744d-4967-8dd5-0c8152f63b00.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/66e0f2b5-52f4-4b40-9bef-edc64afefad0.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/66e0f2b5-52f4-4b40-9bef-edc64afefad0.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/cf1376ad-06fc-4559-a7e3-c88f6d6ff646.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/44bb9dc7-c096-43a7-9c5d-391460626844.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/44bb9dc7-c096-43a7-9c5d-391460626844.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/817f1be8-0cfe-49ca-8717-006896455d98.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/391ba4c9-4a87-4f48-8aca-98052332e856.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/391ba4c9-4a87-4f48-8aca-98052332e856.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/e6ac068f-35b0-4586-9557-ddbb2553eda1.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/4164e354-236c-4693-87b8-7eb9ce3b40e4.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/4164e354-236c-4693-87b8-7eb9ce3b40e4.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/8fbc9413-6ee0-4002-91c0-b14639b9210b.JPG"
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/c803d5ac-93bd-4dbf-a4f5-c78f8d8c280f.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX492/c803d5ac-93bd-4dbf-a4f5-c78f8d8c280f.JPG",
+          "hdr": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/HPX103/2960d47e-4928-498d-b566-f57a3b4ea2fa.JPG"
+        }
+      ],
+      "currentBid": 58500,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "tHL5MZwIxAY9bjOircYrAyd5vDPemGQZujK241LmROQ="
+    },
+    {
+      "id": 56150021,
+      "vehicleType": "V",
+      "year": 2016,
+      "make": "Ford",
+      "modelGroup": "F-150",
+      "model": "F150 Super",
+      "bodyStyle": "CREW PICKUP",
+      "color": "SILVER",
+      "primaryDamage": "WATER/FLOOD",
+      "secondaryDamage": null,
+      "title": {
+        "type": "CD",
+        "name": "FL CERTIFICATE OF DESTRUCTION",
+        "copartNotes": "FL - CERTIFICATE OF DESTRUCTION"
+      },
+      "vin": "1FTEW1EG8GF******",
+      "odometer": 120137,
+      "odometerBrand": "Actual",
+      "acv": "26319.00",
+      "repairCost": "0.00",
+      "engineSize": "3.5L  6",
+      "saleStatus": "M",
+      "buyItNow": 13400,
+      "makeAnOffer": true,
+      "currency": "USD",
+      "saleLocation": {
+        "id": 880,
+        "name": "NCS - Eastern Region",
+        "slug": "ncs-eastern_region",
+        "city": "DALLAS",
+        "stateCode": "TX",
+        "zip": "75254",
+        "physical": false,
+        "point": [
+          -96.82264,
+          32.93905
+        ]
+      },
+      "saleDate": "2021-10-14T00:00:00-07:00",
+      "saleStartAt": "2021-10-14T18:00:00-07:00",
+      "item": 0,
+      "gridRow": "*OFF",
+      "location": {
+        "id": 33,
+        "name": "FL - Miami North",
+        "slug": "fl-miami_north",
+        "city": "OPA LOCKA",
+        "stateCode": "FL",
+        "zip": "33054",
+        "physical": true,
+        "point": [
+          -80.24397,
+          25.89173
+        ]
+      },
+      "locationName": "FL - Miami North",
+      "offsite": {
+        "preview": {
+          "contactName": "AUTOLAND OF AMERICA",
+          "address": "5305 NW 35 AVE",
+          "city": "MIAMI",
+          "state": "FL",
+          "zip": "33142"
+        },
+        "pickup": {
+          "contactName": "COPART",
+          "address": "12850 NW 27TH AVE",
+          "city": "MIAMI",
+          "state": "FL",
+          "zip": "33054"
+        }
+      },
+      "sold": false,
+      "subLotInfo": null,
+      "description": "2016 Ford F150 Super 3.5L",
+      "sealedBid": false,
+      "largeImage": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/f6e821ea-8c83-4702-b800-3d93f11175a9.JPG",
+      "lane": "A",
+      "saleDateTimeLeft": {
+        "invert": 0,
+        "isTimeLeft": true,
+        "d": 0,
+        "h": 10,
+        "m": 0,
+        "s": 5,
+        "dashArray": 260,
+        "progress": 216.66666666666669
+      },
+      "saleStatusString": "On Minimum Bid",
+      "prebiddingClosed": false,
+      "auctionInProgress": false,
+      "bidStatus": "You Haven't bid",
+      "showClearVinBadge": true,
+      "slug": "COPART_2016_FORD_F150_SUPER_CERTIFICATE_OF_DESTRUCTION_MIAMI_NORTH_FL",
+      "vehicleTypeLabel": "Car",
+      "images": [
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/f6e821ea-8c83-4702-b800-3d93f11175a9.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/f6e821ea-8c83-4702-b800-3d93f11175a9.JPG",
+          "hdr": ""
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/75aacf46-f398-44e3-b560-2cb5f15dd989.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/75aacf46-f398-44e3-b560-2cb5f15dd989.JPG",
+          "hdr": ""
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/dcc4eca6-be7c-478d-86fe-f2b2fc61ae04.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/dcc4eca6-be7c-478d-86fe-f2b2fc61ae04.JPG",
+          "hdr": ""
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/4fd7d9ce-5b2e-4649-a15a-fc0dec00ac62.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/4fd7d9ce-5b2e-4649-a15a-fc0dec00ac62.JPG",
+          "hdr": ""
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/1eef6f8f-7311-4f58-8680-84295c71dfdf.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/1eef6f8f-7311-4f58-8680-84295c71dfdf.JPG",
+          "hdr": ""
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/820799b1-ecd5-48f3-a79d-cee1eedfed7b.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/820799b1-ecd5-48f3-a79d-cee1eedfed7b.JPG",
+          "hdr": ""
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/1dac2bee-55fb-4b1b-a45f-75d41c58b846.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/1dac2bee-55fb-4b1b-a45f-75d41c58b846.JPG",
+          "hdr": ""
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/fc78ced9-e42d-4459-bc59-b40d90115d1f.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/fc78ced9-e42d-4459-bc59-b40d90115d1f.JPG",
+          "hdr": ""
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/b220713b-f466-469f-abb3-f5478d44f611.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/b220713b-f466-469f-abb3-f5478d44f611.JPG",
+          "hdr": ""
+        },
+        {
+          "thumbnail": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/8d624fbd-db6f-4604-8834-cde618a6dc96.JPG",
+          "full": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX479/8d624fbd-db6f-4604-8834-cde618a6dc96.JPG",
+          "hdr": ""
+        }
+      ],
+      "currentBid": 11600,
+      "status": 1,
+      "isWatched": false,
+      "vinHash": "YQkdH8LntkQN1WwVlYN83MAHHPELF4/tuqKIRisaCsQ="
+    }
+  ]
+  
