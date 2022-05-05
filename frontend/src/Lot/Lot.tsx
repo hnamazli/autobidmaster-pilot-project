@@ -1,7 +1,12 @@
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { InfoCard } from "./InfoCard";
+
+import './lot.css';
 
 const lots = [28903764, 59542961, 58044031, 45109901, 59448481, 57463921, 58378311, 59373791, 56258581, 60120231, 56150021];
+
+const dateOptions: any = { weekday: 'short', year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric', timeZoneName: 'short' };
 
 export const Lot = () => {
     const navigate = useNavigate();
@@ -9,15 +14,19 @@ export const Lot = () => {
     const [isLoading, setIsLoading] = useState<boolean>(true);
     const [lot, setLot] = useState<any>({});
 
+    const handleSignOut = useCallback(() => {
+        const options = {
+            method: 'POST'
+        };
+
+        fetch('/api/sign-out', options)
+        .then(() => {
+            localStorage.setItem('isAuth', 'false');
+            navigate('/sign-in')
+        });
+    }, []);
+
     useEffect(() => {
-        const isAuth = localStorage.getItem('isAuth');
-
-        if (!isAuth) {
-            navigate('/sign-in', { replace: true });
-
-            return;
-        }
-
         const randomIndex = Math.floor(Math.random() * (lots.length - 1));
 
         fetch(`/api/lot?id=${lots[randomIndex]}`)
@@ -29,7 +38,8 @@ export const Lot = () => {
                 return;
             }
 
-            navigate(data.redirectUrl, { replace: true });
+            localStorage.setItem('isAuth', 'false');
+            navigate(data.redirectUrl);
         })
         .catch((e) => {
             console.log(e);
@@ -48,8 +58,32 @@ export const Lot = () => {
         )
 
     return (
-        <>
-            {lot.id}
-        </>
+        <div className="lot-wrapper">
+            <div className="lot-header">
+                <div className="lot-shor-info-wrapper">
+                    <h1>{lot.description} at {lot.locationCountry} auction</h1>
+                    <div className="lot-short-info">
+                        <div>Lot # <strong>{lot.id}</strong></div>
+                        <div>Sale Location <strong>{lot.location.name}</strong></div>
+                        <div>{lot.lane}/{lot.item}/{lot.gridRow}</div>
+                        <div>Sale Date: <strong>{new Date(lot.saleDate).toLocaleDateString('en-US', dateOptions)}</strong></div>
+                    </div>
+                </div>
+                <div className="sign-out">
+                    <button type="button" onClick={handleSignOut}>Sign Out</button>
+                </div>
+            </div>
+            <div className="lot-content">
+                <InfoCard>
+                    <div>test</div>
+                </InfoCard>
+                <div className="lot-details">
+
+                </div>
+                <div className="lot-bid-info">
+
+                </div>
+            </div>
+        </div>
     )
 }

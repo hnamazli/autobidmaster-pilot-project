@@ -38,6 +38,9 @@ export const SignIn = () => {
 
         const options = {
             method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
             body: JSON.stringify(formModel)
         };
 
@@ -64,7 +67,7 @@ export const SignIn = () => {
     useEffect(() => {
         const isAuth = localStorage.getItem('isAuth');
 
-        if (isAuth) navigate('/', { replace: true });
+        if (JSON.parse(isAuth!)) navigate('/');
     }, []);
 
     return (

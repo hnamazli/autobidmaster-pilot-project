@@ -1,0 +1,29 @@
+.lot-wrapper {
+    background-color: #f1f1f8;
+}
+
+.lot-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    background-color: #fff;
+    box-shadow: 0px 5px 3px 1px rgb(0 0 0 / 15%);
+}
+
+.lot-shor-info-wrapper > h1 {
+    margin: 0 0 15px;
+}
+
+.lot-shor-info-wrapper > .lot-short-info {
+    display: flex;
+}
+
+.lot-shor-info-wrapper > .lot-short-info > :not(div:last-child) {
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right: 1px solid #000;
+}
+
+.lot-content {
+    padding: 15px 30px;
+}
