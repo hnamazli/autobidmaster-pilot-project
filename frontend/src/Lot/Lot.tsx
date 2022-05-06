@@ -2,18 +2,18 @@ import React, { useCallback, useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Gallery } from "./Gallery";
 import { InfoCard } from "./InfoCard";
+import { ILot } from "../types";
 
 import './lot.css';
 
 const lots = [28903764, 59542961, 58044031, 45109901, 59448481, 57463921, 58378311, 59373791, 56258581, 60120231, 56150021];
-
-const dateOptions: any = { weekday: 'short', year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric', timeZoneName: 'short' };
+const dateOptions: Intl.DateTimeFormatOptions = { weekday: 'short', year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric', timeZoneName: 'short' };
 
 export const Lot = () => {
     const navigate = useNavigate();
 
-    const [isLoading, setIsLoading] = useState<boolean>(true);
-    const [lot, setLot] = useState<any>({});
+    const [isLoading, setIsLoading] = useState(true);
+    const [lot, setLot] = useState<ILot>();
 
     const handleSignOut = useCallback(() => {
         const options = {
@@ -24,6 +24,9 @@ export const Lot = () => {
         .then(() => {
             localStorage.setItem('isAuth', 'false');
             navigate('/sign-in')
+        })
+        .catch((e) => {
+            console.error(e);
         });
     }, []);
 
@@ -43,7 +46,7 @@ export const Lot = () => {
             navigate(data.redirectUrl);
         })
         .catch((e) => {
-            console.log(e);
+            console.error(e);
         }).finally(() => {
             setIsLoading(false);
         });
@@ -64,12 +67,12 @@ export const Lot = () => {
                         <>
                             <div className="lot-header">
                                 <div className="lot-shor-info-wrapper">
-                                    <h1>{lot.description} at {lot.locationCountry} auction</h1>
+                                    <h1>{lot?.description} at {lot?.locationCountry} auction</h1>
                                     <div className="lot-short-info">
-                                        <div>Lot # <strong>{lot.id}</strong></div>
-                                        <div>Sale Location <strong>{lot.location.name}</strong></div>
-                                        <div>{lot.lane}/{lot.item}/{lot.gridRow}</div>
-                                        <div>Sale Date: <strong>{new Date(lot.saleDate).toLocaleDateString('en-US', dateOptions)}</strong></div>
+                                        <div>Lot # <strong>{lot?.id}</strong></div>
+                                        <div>Sale Location <strong>{lot?.location.name}</strong></div>
+                                        <div>{lot?.lane}/{lot?.item}/{lot?.gridRow}</div>
+                                        <div>Sale Date: <strong>{new Date(lot?.saleDate!).toLocaleDateString('en-US', dateOptions)}</strong></div>
                                     </div>
                                 </div>
                                 <div className="sign-out">
@@ -77,21 +80,21 @@ export const Lot = () => {
                                 </div>
                             </div>
                             <div className="lot-content">
-                                <Gallery images={lot.images} />
-                                <InfoCard title={`Lot # ${lot.id} Details`}>
-                                    <div className="card-item">VIN: <strong>{lot.vin}</strong></div>
-                                    <div className="card-item">Title Code: <strong>{lot.title.name}</strong></div>
-                                    <div className="card-item">Odometer: <strong>{lot.odometer} {lot.odometerBrand}</strong></div>
-                                    <div className="card-item">Primary Damage: <strong>{lot.primaryDamage}</strong></div>
-                                    {lot.bodyStyle && <div className="card-item">Body Style: <strong>{lot.bodyStyle}</strong></div>}
-                                    <div className="card-item">Vehicle Type: <strong>{lot.vehicleType}</strong></div>
-                                    <div className="card-item">Color: <strong>{lot.color}</strong></div>
-                                    <div className="card-item">Engine: <strong>{lot.engineSize}</strong></div>
+                                <Gallery images={lot?.images!} />
+                                <InfoCard title={`Lot # ${lot?.id} Details`}>
+                                    <div className="card-item">VIN: <strong>{lot?.vin}</strong></div>
+                                    <div className="card-item">Title Code: <strong>{lot?.title.name}</strong></div>
+                                    <div className="card-item">Odometer: <strong>{lot?.odometer} {lot?.odometerBrand}</strong></div>
+                                    <div className="card-item">Primary Damage: <strong>{lot?.primaryDamage}</strong></div>
+                                    {lot?.bodyStyle && <div className="card-item">Body Style: <strong>{lot?.bodyStyle}</strong></div>}
+                                    <div className="card-item">Vehicle Type: <strong>{lot?.vehicleType}</strong></div>
+                                    <div className="card-item">Color: <strong>{lot?.color}</strong></div>
+                                    <div className="card-item">Engine: <strong>{lot?.engineSize}</strong></div>
                                 </InfoCard>
                                 <InfoCard title="Bid Information">
-                                    <div className="card-item">Bid Status: <strong>{lot.bidStatus}</strong></div>
-                                    <div className="card-item">Recommended Bid: <strong>{lot.saleStatusString}</strong></div>
-                                    <div className="card-item">Current Bid: <strong>{lot.currencySymbol}{lot.currentBid}</strong> {lot.currency}</div>
+                                    <div className="card-item">Bid Status: <strong>{lot?.bidStatus}</strong></div>
+                                    <div className="card-item">Recommended Bid: <strong>{lot?.saleStatusString}</strong></div>
+                                    <div className="card-item">Current Bid: <strong>{lot?.currencySymbol}{lot?.currentBid}</strong> {lot?.currency}</div>
                                 </InfoCard>
                             </div>
                         </>

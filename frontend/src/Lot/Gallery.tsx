@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { FreeMode, Navigation, Thumbs } from 'swiper';
+import { IGalleryImage } from '../types';
 
 import 'swiper/css';
 import 'swiper/css/free-mode';
@@ -9,18 +10,12 @@ import 'swiper/css/thumbs';
 
 import './gallery.css';
 
-interface IGalleryImage {
-    thumbnail: string,
-    full: string,
-    hdr: null
-}
-
 interface IGalleryProps {
     images: IGalleryImage[];
 }
 
 export const Gallery: React.FC<IGalleryProps> = ({ images }) => {
-    const [thumbsSwiper, setThumbsSwiper] = useState<any>(null);
+    const [thumbsSwiper, setThumbsSwiper] = useState<any>();
 
     return (
         <div className='gallery-wrapper'>

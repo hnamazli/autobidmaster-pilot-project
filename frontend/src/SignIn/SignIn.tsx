@@ -3,15 +3,15 @@ import { useNavigate } from "react-router-dom";
 
 import './sign-in.css';
 
-export const SignIn = () => {
+export const SignIn: React.FC = () => {
     const navigate = useNavigate();
 
-    const [isSubmitting, setIsSubmitting] = useState<boolean>(false);
+    const [isSubmitting, setIsSubmitting] = useState(false);
     const [formModel, setFormModel] = useState({
         email: '',
         password: '',
     });
-    const [errorMessage, setErrorMessage] = useState<string>('');
+    const [errorMessage, setErrorMessage] = useState('');
 
     const handleEmail = useCallback((e: ChangeEvent<HTMLInputElement>) => {
         setFormModel((prev) => ({ ...prev, email: e.target.value }));
@@ -21,7 +21,7 @@ export const SignIn = () => {
         setFormModel((prev) => ({ ...prev, password: e.target.value }));
     }, []);
 
-    const handleSubmit = useCallback(async (e: SyntheticEvent) => {
+    const handleSubmit = useCallback((e: SyntheticEvent) => {
         e.preventDefault();
 
         setErrorMessage('');
@@ -57,7 +57,7 @@ export const SignIn = () => {
             setErrorMessage(data.message);
         })
         .catch((e) => {
-            console.log(e);
+            console.error(e);
         })
         .finally(() => {
             setIsSubmitting(false);
