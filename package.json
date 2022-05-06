@@ -1,0 +1,22 @@
+{
+    "name": "autobidmaster-pilot-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "build": "npm run build --prefix frontend && npm run build --prefix backend",
+      "start": "node ./build/index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hnamazli/autobidmaster-pilot-project.git"
+    },
+    "author": "hnamazli",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/hnamazli/autobidmaster-pilot-project/issues"
+    },
+    "homepage": "https://github.com/hnamazli/autobidmaster-pilot-project#readme"
+  }
+  
