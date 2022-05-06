@@ -76,7 +76,7 @@ export const SignIn = () => {
                 <h1>Sign In to your account</h1>
                 {errorMessage && <div className="error-block">{errorMessage}</div>}
                 <form onSubmit={handleSubmit}>
-                    <input type="email" name="email" onChange={handleEmail} placeholder="Email" disabled={isSubmitting} />
+                    <input type="email" name="email" onChange={handleEmail} placeholder="Email" disabled={isSubmitting} autoComplete="off" />
                     <input type="password" name="password" onChange={handlePassword} placeholder="Password" disabled={isSubmitting} />
                     <button type="submit" onClick={handleSubmit} disabled={isSubmitting}>Sign In</button>
                 </form>

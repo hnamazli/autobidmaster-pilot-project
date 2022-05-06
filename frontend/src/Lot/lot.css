@@ -1,5 +1,8 @@
-.lot-wrapper {
-    background-color: #f1f1f8;
+.lot-wrapper.is-loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .lot-header {
@@ -25,5 +28,14 @@
 }
 
 .lot-content {
-    padding: 15px 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-gap: 10px;
+    padding: 30px;
+}
+
+@media only screen and (max-width: 1280px) {
+    .lot-header {
+        flex-direction: column-reverse;
+    }
 }

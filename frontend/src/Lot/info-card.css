@@ -1,0 +1,33 @@
+.info-card-wrapper {
+    height: fit-content;
+    border: 1px solid #E0E0E0;
+    background-color: #fff;
+}
+
+.info-card-header {
+    display: flex;
+    align-items: center;
+    min-height: 42px;
+    padding: 8px 14px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #333333;
+    border-radius: 3px 3px 0 0;
+    background-color: #F2F2F2;
+}
+
+.info-card-content {
+    padding: 5px 15px;
+}
+
+.info-card-content .card-item {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 5px 0;
+    border-bottom: 1px solid #E0E0E0
+}
+
+.info-card-content .card-item:last-child {
+    border: none;
+}
